@@ -44,4 +44,12 @@ $(function() {
         $('#word').hide();
     })
 
+
+    // $.getJSON("https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US", function(data) {
+    //     // 在请求成功后执行的回调函数
+    //     var url = "https://www.bing.com" + data.images[0].url;
+    //     $('#myImage').attr('src', url);
+    // });
+
+
 })
